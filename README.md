@@ -1,3 +1,6 @@
+**NOTE**: this repo is not used, the code for this plugin exists in https://github.com/rundeck/rundeck
+
+
 # Object Store Plugin
 
 Save Rundeck data in an Amazon S3 compliant object store. 
